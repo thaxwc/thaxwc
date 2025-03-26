@@ -15,7 +15,7 @@
 ### Professional Overview
 
 **Name:** xwc  
-**Location:** [bd (Remote)  
+**Location:** [Your City, Country] (Remote)  
 **Role:** Senior Security Researcher | Penetration Tester | Threat Intelligence Specialist  
 **Contact:** [professional@xwc.com](mailto:professional@xwc.com) | [LinkedIn](https://www.linkedin.com/in/xwc)  
 
@@ -41,23 +41,23 @@ A seasoned cybersecurity professional with over 8 years of experience specializi
 
 #### Security Tools
 <div align="center">
-  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000)
-  ![Metasploit](https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000)
-  ![Wireshark](https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000)
+  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000) 
+  ![Metasploit](https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000) 
+  ![Wireshark](https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000) 
   ![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-000000?style=for-the-badge)
 </div>
 
 #### Programming
 <div align="center">
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000)
-  ![C/C++](https://img.shields.io/badge/C/C%2B%2B-00599C?style=for-the-badge&logo=c&color=000000)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000) 
+  ![C/C++](https://img.shields.io/badge/C/C%2B%2B-00599C?style=for-the-badge&logo=c&color=000000) 
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000)
 </div>
 
 #### Platforms & Infrastructure
 <div align="center">
-  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000)
+  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000) 
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000) 
   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&color=white)
 </div>
 
@@ -77,7 +77,7 @@ A seasoned cybersecurity professional with over 8 years of experience specializi
 ### GitHub Analytics
 
 <div align="right">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xwc&show_icons=true&theme=vision-friendly-dark&bg_color=00000000&hide_border=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xwc&show_icons=true&theme=vision-friendly-dark&bg_color=00000000&hide_border=true) 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xwc&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true)
 </div>
 
@@ -97,4 +97,5 @@ A seasoned cybersecurity professional with over 8 years of experience specializi
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
+
 
