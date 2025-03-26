@@ -15,8 +15,14 @@
 ### Professional Overview
 
 **Name:** Tha Hacker Xwc 
+
+
 **Location:** bd 
+
+
 **Role:** Security Researcher | Malware Analyst | Bug Bounty Hunter  
+
+
 **Contact:** [](mailto:) | [YouTube]()  
 
 With extensive experience in reverse engineering, vulnerability assessment, and digital forensics, I specialize in identifying and mitigating security threats. My work focuses on malware analysis, penetration testing, and contributing to open-source security tools. Passionate about knowledge sharing, I actively mentor in tech communities and create educational content.
