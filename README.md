@@ -76,8 +76,8 @@ With extensive experience in reverse engineering, vulnerability assessment, and 
 
 <img align="right" width="40%" src="https://i.imgur.com/1ToWEWw.png" alt="Metrics">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coffinxp&show_icons=true&theme=vision-friendly-dark&bg_color=00000000&hide_border=true)](https://github.com/thaxwc)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coffinxp&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true)(https://github.com/thaxwc)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaxwc&show_icons=true&theme=vision-friendly-dark&bg_color=00000000&hide_border=true)](https://github.com/thaxwc)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaxwc&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true)(https://github.com/thaxwc)
 
 ---
 
