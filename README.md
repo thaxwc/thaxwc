@@ -14,7 +14,7 @@
 
 ### Professional Overview
 
-**Name:** Dmitry "Tha Hacker Xwc" Ivanov  
+**Name:** Tha Hacker Xwc 
 **Location:** bd 
 **Role:** Security Researcher | Malware Analyst | Bug Bounty Hunter  
 **Contact:** [](mailto:) | [YouTube]()  
