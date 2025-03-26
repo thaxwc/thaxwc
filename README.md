@@ -20,6 +20,14 @@
 
 **Role:** Security Researcher | Malware Analyst | Bug Bounty Hunter  
 
+
+
+
+**Contact:** [](mailto:) | [YouTube]()  
+
+With extensive experience in reverse engineering, vulnerability assessment, and digital forensics, I specialize in identifying and mitigating security threats. My work focuses on malware analysis, penetration testing, and contributing to open-source security tools. Passionate about knowledge sharing, I actively mentor in tech communities and create educational content.
+
+---
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
 👉 Still Learning Bug hunting & malware forensics.
@@ -35,14 +43,6 @@
 `Updating:`  Journey to Cybersecurity Specialist.
 
 ---
-
-
-**Contact:** [](mailto:) | [YouTube]()  
-
-With extensive experience in reverse engineering, vulnerability assessment, and digital forensics, I specialize in identifying and mitigating security threats. My work focuses on malware analysis, penetration testing, and contributing to open-source security tools. Passionate about knowledge sharing, I actively mentor in tech communities and create educational content.
-
----
-
 ### Core Competencies
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
