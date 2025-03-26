@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto" alt="Banner"/>
-</p>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -21,6 +19,22 @@
 
 
 **Role:** Security Researcher | Malware Analyst | Bug Bounty Hunter  
+
+<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
+
+👉 Still Learning Bug hunting & malware forensics.
+
+👉 Managing Tech Communities & Content creator.
+
+👉 Writing Some Useful Tools For Myself & Communities
+
+👉 Building & Contributing To Open Source Projects
+
+👉 Currently Learning mobile pentesting & web3 
+
+`Updating:`  Journey to Cybersecurity Specialist.
+
+---
 
 
 **Contact:** [](mailto:) | [YouTube]()  
